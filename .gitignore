@@ -1,0 +1,12 @@
+/target/
+.idea/
+banma_service_mall_admin_server.iml
+/.settings/
+.classpath
+.project
+module_banma_service_mall_admin_server.xml
+/bin/
+.factorypath
+将删除 .gitignore
+将删除 src/main/java/
+将删除 src/test/
