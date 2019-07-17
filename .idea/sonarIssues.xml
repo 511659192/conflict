@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ps/banma_service_mall_admin_server/src/main/java/com/sankuai/meituan/banma/thrift/mall/admin/service/CouponService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ps/banma_service_mall_server/src/test/java/com/sankuai/meituan/banma/thrift/mall/iface/impl/mallgit.sh">
           <value>
             <set />
@@ -34,6 +39,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/resources/aa.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
           <value>
             <set />
           </value>
