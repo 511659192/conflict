@@ -274,10 +274,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;2&quot;&#10;&#10;This reverts commit 1e306091" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="434" y="116" key="CommitChangelistDialog2" timestamp="1581390289633">
+    <state x="434" y="116" key="CommitChangelistDialog2" timestamp="1581390301957">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="434" y="116" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1581390289633" />
+    <state x="434" y="116" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1581390301957" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1581390303719">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1581390303719" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
