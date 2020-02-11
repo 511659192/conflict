@@ -54,6 +54,7 @@
     <option name="width" value="1680" />
     <option name="height" value="1027" />
   </component>
+  <component name="ProjectId" id="1XdyTVdTd33DlRlL1c1VrL3LZYY" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -271,6 +272,12 @@
     <MESSAGE value="Revert &quot;cc&quot;&#10;&#10;This reverts commit c9ad8f65" />
     <MESSAGE value="Revert &quot;2&quot;&#10;&#10;This reverts commit 1e306091" />
     <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;2&quot;&#10;&#10;This reverts commit 1e306091" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="434" y="116" key="CommitChangelistDialog2" timestamp="1581390289633">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="434" y="116" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1581390289633" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
